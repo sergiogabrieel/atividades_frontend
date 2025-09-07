@@ -1,0 +1,15 @@
+.menu{
+    display: flex;
+    list-style: none;
+    padding: 10px;
+    border-radius: 10px;
+    
+}
+
+.menu li{
+    margin-right: 10px;
+}
+
+a:hover{
+    color: orange;
+}
